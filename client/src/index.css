@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.todo {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
